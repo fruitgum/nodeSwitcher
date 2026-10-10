@@ -1,0 +1,10 @@
+patroni:
+  port: ""
+composition:
+  containers: []
+  location: ""
+  scripts:
+    start: []
+    stop: []
+cooldown: 180
+stand_ip: ""
